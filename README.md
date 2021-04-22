@@ -7,11 +7,16 @@ Ymap and Ytype file with better interior for the 6 car garage, the white chair a
 # coords ? : 
 
 199.19, -1002.38, -130.39
-199.05, -1002.45, -122.9
-198.93, -1002.52, -116.26
-198.81, -1002.58, -109.87
-198.7, -1002.64, -103.84
-198.6, -1002.69, -98.38
+
+201.05, -1002.45, -122.9
+
+203.93, -1002.52, -116.26
+
+205.81, -1002.58, -109.87
+
+207.7, -1002.64, -103.84
+
+209.6, -1002.69, -98.38
 
 # how to use ? : 
 
@@ -24,4 +29,11 @@ use for whatever you want, im using it as a robable garage for myRobbery script,
 # examples : 
 
 Example Video  : https://streamable.com/3cp42m
+
 pic : https://imgur.com/a/wnKOFlP
+
+pic 2 : https://imgur.com/ia7VIVo
+
+pic 3 : https://imgur.com/Euv8HUj
+
+pic 4 : https://imgur.com/ra3wgim
